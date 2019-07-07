@@ -1,0 +1,42 @@
+body {
+	font-size: 14px;
+	color: #FF8822;
+	background-color: #CCE7F9;
+}
+
+h1 {
+	font-size: 32px;
+	color: #002211;
+}
+
+
+font{
+	font-size: 16px;
+	color: #FF6611;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif
+}
+
+div {
+	
+  border: 6px solid #CCE7F9;
+  background-color: #CCE7F9;
+  padding: 40px;
+  
+  /*
+  height: 100px;
+  margin: 20px;
+  padding: 20px;
+  width: 400px;
+  */
+}
+
+.centered{
+    position:absolute;
+    width:200px;
+    height:200px;
+    left:50%;
+    top:50%;
+    margin-left:-100px;
+    margin-top:-100px;
+}
+
